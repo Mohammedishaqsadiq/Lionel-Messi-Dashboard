@@ -72,17 +72,15 @@ header{
     align-items: center;
   }
   .lionetag {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
   }
   .logo-lion-section {
     display: flex;
     gap: 1vw;
   }
   .header2-lionel {
-    position: absolute;
-    bottom: 70%;
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
   .father-button {
     display: flex;
