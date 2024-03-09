@@ -167,7 +167,7 @@ ul {
   height: 21.5vh;
   border-radius: 5%;
   padding: 20px;
-  border-left: solid #fdba74 1px;
+  border-left: solid #fdba74 10px;
 }
 .father-svg{
   display: flex;
