@@ -154,7 +154,7 @@ ul {
 .holder {
   display: grid;
   grid-template-rows: repeat(2, 1fr);
- grid-template-columns: repeat(2, 23.5vw);
+ grid-template-columns: repeat(2, 26.7vw);
   row-gap: 1rem;
   column-gap: -1rem;
   margin-left: 3rem;
@@ -162,10 +162,10 @@ ul {
 }
 .hist{
   background-color: white;
-  width: 18vw;
+  width: 22vw;
   box-shadow: 0px 1px 5px gray;
   height: 21.5vh;
-  border-radius: 1vw;
+  border-radius: 5%;
   padding: 20px;
   border-left: 1vw solid #fdba74;
 }
