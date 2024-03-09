@@ -154,7 +154,7 @@ ul {
 .holder {
   display: grid;
   grid-template-rows: repeat(2, 1fr);
- grid-template-columns: repeat(2, 435px);
+ grid-template-columns: repeat(2, 22.6vw);
   row-gap: 1rem;
   column-gap: -1rem;
   margin-left: 3rem;
