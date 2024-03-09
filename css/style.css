@@ -170,12 +170,14 @@ ul {
 }
 .father-svg{
   display: flex;
-  width: 23vw;
   gap: 1vw;
   justify-content: end;
   position: relative;
-  top: -5.5vw;
-  left: -5vw;
+  top: 1vw;
+  left: -0.5vw;
+}
+.s {
+  width: 1.5vw;
 }
 .content{
   margin-top: -15px;
